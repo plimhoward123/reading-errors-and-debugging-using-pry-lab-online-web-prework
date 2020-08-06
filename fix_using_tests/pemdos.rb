@@ -5,7 +5,7 @@ def snake_it_up(string)
     10.times do
       string = string.prepend("s")
   end
-  
+
   else
     return string
   end
