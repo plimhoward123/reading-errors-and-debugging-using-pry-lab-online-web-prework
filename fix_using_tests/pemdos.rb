@@ -8,4 +8,5 @@ def snake_it_up(string)
   else
     return string
   end
+  return string
 end
